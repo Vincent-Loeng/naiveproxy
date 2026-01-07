@@ -2,6 +2,8 @@
 
 _**Please note that the support for FreeBSD is experimental.**_
 
+Currently, most CI systems do not support FreeBSD, so I have to build them manually. I would try building them on other platforms, but it depends on my time.
+
 ---
 
 # NaïveProxy ![build workflow](https://github.com/klzgrad/naiveproxy/actions/workflows/build.yml/badge.svg)
