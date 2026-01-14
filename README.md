@@ -1,10 +1,17 @@
-# NaïveProxy for FreeBSD
+# NaiveProxy for FreeBSD/OpenBSD
 
-_**Please note that the support for FreeBSD is experimental.**_
+_**Please note that the support for FreeBSD and OpenBSD is experimental.**_
 
-Currently, most CI systems do not support FreeBSD, so I have to build the binaries manually.
+Currently, most CI systems do not support FreeBSD/OpenBSD, so I have to build the binaries manually.
 
 I would try building them on other platforms, but it depends on my time.
+
+## Supported Platforms
+
+| OS Version        | CPU Architecture                             |
+|-------------------|----------------------------------------------|
+| FreeBSD 13.0-15.0 | i386/amd64/armv7/aarch64/powerpc64le/riscv64 |
+| OpenBSD 7.8       | i386/aarch64                                 |
 
 ---
 
