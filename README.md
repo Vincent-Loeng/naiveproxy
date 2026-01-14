@@ -11,7 +11,7 @@ I would try building them on other platforms, but it depends on my time.
 | OS Version        | CPU Architecture                             |
 |-------------------|----------------------------------------------|
 | FreeBSD 13.0-15.0 | i386/amd64/armv7/aarch64/powerpc64le/riscv64 |
-| OpenBSD 7.8       | i386/aarch64                                 |
+| OpenBSD 7.8       | amd64/aarch64                                |
 
 ---
 
