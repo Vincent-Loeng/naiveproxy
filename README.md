@@ -1,12 +1,12 @@
 # NaiveProxy for FreeBSD/OpenBSD
 
-_**Please note that the support for FreeBSD and OpenBSD is experimental.**_
-
-In addition, most CI systems do not support FreeBSD/OpenBSD, so I have to build the binaries manually.
-
-I would try building them on other platforms, but it depends on my time.
+_Please note that the support for FreeBSD and OpenBSD is experimental._
 
 ## Supported Platforms
+
+All builds of this repo are compiled under their respective systems since most CI systems does not support *BSD.
+
+I would try to build them on Linux, which depends on my time.
 
 | OS Version        | CPU Architecture                             |
 |-------------------|----------------------------------------------|
