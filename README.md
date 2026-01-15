@@ -4,7 +4,7 @@ _Please note that the support for FreeBSD and OpenBSD is experimental._
 
 ## Supported Platforms
 
-All builds of this repo are compiled under their respective systems since most CI systems does not support *BSD.
+Each build of this repo is compiled manually under its respective OS since most CI systems does not support *BSD.
 
 I would try to build them on Linux, which depends on my time.
 
