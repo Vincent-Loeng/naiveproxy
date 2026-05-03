@@ -1,3 +1,19 @@
+# NaiveProxy for FreeBSD/OpenBSD
+
+_Please note that the support for FreeBSD and OpenBSD is experimental and only binaries are provided._
+
+## Supported Platforms
+
+Each build is compiled manually under its respective OS since most CI systems does not support *BSD.
+
+I would try to build them on Linux, which depends on my time.
+
+| OS Version        | CPU Architecture                             |
+|-------------------|----------------------------------------------|
+| FreeBSD 13.0-15.0 | i386/amd64/armv7/aarch64/powerpc64le/riscv64 |
+| OpenBSD 7.8       | amd64/aarch64/riscv64                        |
+
+---
 # NaïveProxy ![build workflow](https://github.com/klzgrad/naiveproxy/actions/workflows/build.yml/badge.svg)
 
 NaïveProxy uses Chromium's network stack to camouflage traffic with strong censorship resistence and low detectablility. Reusing Chrome's stack also ensures best practices in performance and security.
