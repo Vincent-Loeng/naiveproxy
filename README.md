@@ -13,6 +13,11 @@ I would try to build them on Linux, which depends on my time.
 | FreeBSD 13.0-15.0 | i386/amd64/armv7/aarch64/powerpc64le/riscv64 |
 | OpenBSD 7.8       | amd64/aarch64/riscv64                        |
 
+## Other tools
+
+1. [**bsd-box**](https://github.com/Vincent-Loeng/bsd-box)
+2. [**clash-meta for FreeBSD**](https://github.com/Vincent-Loeng/clash-meta)
+
 ---
 # NaïveProxy ![build workflow](https://github.com/klzgrad/naiveproxy/actions/workflows/build.yml/badge.svg)
 
